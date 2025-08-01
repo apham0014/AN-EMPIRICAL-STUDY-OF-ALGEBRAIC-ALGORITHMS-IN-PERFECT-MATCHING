@@ -15,7 +15,7 @@ authors:
     email: austinpham@cmail.carleton.ca
     affiliation: Carleton University
 repository-code: >-
-  https://github.com/apham0014/Algebraic-Algorithms-for-Perfect-Matching
+  https://github.com/apham0014/AN-EMPIRICAL-STUDY-OF-ALGEBRAIC-ALGORITHMS-IN-PERFECT-MATCHING
 abstract: >-
   Implementations for perfect matching according to Harvey's
   algorithm.  And implementations for perfect matching
