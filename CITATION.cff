@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  AN EMPIRICAL STUDY OF ALGEBRAIC ALGORITHMS IN PERFECT
+  MATCHING
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Austin
+    family-names: Pham
+    email: austinpham@cmail.carleton.ca
+    affiliation: Carleton University
+repository-code: >-
+  https://github.com/apham0014/Algebraic-Algorithms-for-Perfect-Matching
+abstract: >-
+  Implementations for perfect matching according to Harvey's
+  algorithm.  And implementations for perfect matching
+  detection according to Lovasz, as well as Rabin &
+  Vazirani.
+license: MIT
